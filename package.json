@@ -1,0 +1,15 @@
+{
+  "name": "mutation-demo-repo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Throwaway target repo for the PR-Scoped Mutation Confidence Tester. Test quality is deliberately uneven.",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "vitest": "^1.6.0"
+  }
+}
